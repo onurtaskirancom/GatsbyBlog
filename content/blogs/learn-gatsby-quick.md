@@ -3,6 +3,7 @@ title: Learn Gatsby Fast
 subtitle: Learn Gatsby now, its super!
 date: 2021-05-10
 slug: learn-gatsby-quick
+author: Onur TAŞKIRAN
 ---
 
 
